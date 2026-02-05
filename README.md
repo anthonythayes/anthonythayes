@@ -2,7 +2,7 @@
 - 🏫 I'm currently an undergrad in Information Systems
 - 📐 I already have experience in Python, SQL, and some basic home networking
 - 🔭 I’m currently working on Devops projects for personal development
-- 🌱 I’m currently learning the Linux command line, virtual machines/containers, and audio/video interfaces 
+- 🌱 I’m currently learning the Linux command line, virtual machines/containers, and machine learning. 
 <!--
 **bradysadie/bradysadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
